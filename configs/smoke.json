@@ -1,0 +1,8 @@
+{
+  "REQISC_PREOPTIMIZE": true,
+  "AUTO_RUN_FIDELITY": false,
+  "NATIVE_COBYLA_MAXITER": 2,
+  "PRINT_WORKFLOW": false,
+  "PRINT_TIMING": false,
+  "BATCH_MAX_FILES": 1
+}
