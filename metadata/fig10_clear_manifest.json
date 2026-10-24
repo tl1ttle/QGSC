@@ -1,0 +1,20 @@
+{
+  "source": "assets/fig10_circuit_source_60.csv",
+  "dimensions_mm": [
+    86,
+    60
+  ],
+  "minimum_font_pt": 9.96,
+  "font_family": "Times New Roman",
+  "mean_reduction_percent": 20.95734074398011,
+  "circuit_count": 60,
+  "point_count": 60,
+  "family_aggregation": false,
+  "negative_reductions_preserved": true,
+  "data_integrity": "No raster or fitted curve. Every point is one individually matched circuit; no smoothing or invented interpolation.",
+  "mean_basis": "Ratio of actual per-circuit mean times over all 60 matched records; not arithmetic mean of percentage reductions.",
+  "point_basis": "One record per circuit; no family aggregation; exact coincident points may overlap.",
+  "conclusion": "Excess-amplitude prevalence and paired ReQISC-relative time reductions, with overall circuit-weighted benefit.",
+  "archetype": "single-panel quantitative scatter",
+  "export": "Editable vector PDF/SVG; PNG/TIFF 600 dpi."
+}

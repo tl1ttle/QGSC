@@ -1,0 +1,63 @@
+{
+  "manuscript": "manuscript_prapplied.tex",
+  "date": "2026-10-24",
+  "included_figures": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "included_tables": [
+    "I",
+    "II",
+    "III",
+    "IV"
+  ],
+  "alltoall_rows": 60,
+  "fully_connected_fidelity_rows": 28,
+  "fully_connected_fidelity_values": 168,
+  "restricted_rows": 30,
+  "restricted_families": 18,
+  "tableIII_family_rows_and_overall": 32,
+  "family_mean_rounding_matches_tableIII": true,
+  "fully_connected_fidelity_means": {
+    "UGS": 0.9500640714285714,
+    "SQiSW": 0.9497904642857142,
+    "SU4": 0.9489192857142857,
+    "CX": 0.9368054642857143,
+    "B": 0.93599275,
+    "iSWAP": 0.931006
+  },
+  "python_renderers_verified": [
+    1,
+    3,
+    5,
+    7,
+    8,
+    10,
+    12
+  ],
+  "python_renderer_output_matches_manuscript_pixels": true,
+  "xelatex_standalones_verified": [
+    6,
+    11
+  ],
+  "drawio_sources_included": [
+    2,
+    4,
+    7,
+    8,
+    9
+  ],
+  "drawio_command_line_export": "Not verified: export did not finish in the current environment; exact manuscript PDFs retained.",
+  "historical_unused_circuit_rows_included": false,
+  "unused_restricted_SU4_iSWAP_columns_included": false
+}

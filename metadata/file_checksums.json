@@ -1,0 +1,492 @@
+[
+  {
+    "path": "assets/fig01_instruction_primitives_drawio_matched.pdf",
+    "sha256": "41f0ccf47e2d10ef7a85a8becbda50cfc026680d884fd2dbe88f0d7522b89f36",
+    "bytes": 40664
+  },
+  {
+    "path": "assets/fig01_instruction_primitives_drawio_matched.png",
+    "sha256": "84abb296bd768fb1d82e015701d309a18869e47a2d72f50bc91d24047e2c3d1b",
+    "bytes": 51149
+  },
+  {
+    "path": "assets/fig01_instruction_primitives_drawio_matched.svg",
+    "sha256": "faba77eaac08ef16aba751faf08315e8cc65009416ce219817ff68aaab3ed08f",
+    "bytes": 28314
+  },
+  {
+    "path": "assets/fig01_instruction_primitives_drawio_matched.tiff",
+    "sha256": "cad18f2075cb779504810c0441610e0b8aba9cbc7999b6a959bba506028e4fbe",
+    "bytes": 16019090
+  },
+  {
+    "path": "assets/fig01_instruction_primitives_drawio_matched_circuit.svg",
+    "sha256": "0084afe2720465e4832e7d5d80bd0b485e79ae068e9c1e4f013e59019efc98c6",
+    "bytes": 26880
+  },
+  {
+    "path": "assets/fig02_weyl_revised_v3.pdf",
+    "sha256": "cd6c1f332c526aea895a6c45a056c01c20c0c49f0c7e0d827c99924ee355dbfe",
+    "bytes": 88421
+  },
+  {
+    "path": "assets/fig03_cx_gate_coverage_revised.alignment.json",
+    "sha256": "77cc3bdbbf35a642fa117020d6f19ac07c824e318f18f6b6fea20a8a3ebae270",
+    "bytes": 1313
+  },
+  {
+    "path": "assets/fig03_cx_gate_coverage_revised.alignment.svg",
+    "sha256": "7df43afd383ae70810d5697f9759ed88311a3ff063f04c9f835a1dc083192336",
+    "bytes": 932
+  },
+  {
+    "path": "assets/fig03_cx_gate_coverage_revised.pdf",
+    "sha256": "8703edd40706f08af8add34464929d3400f9b90716154b0cc2b2145e2ba14df5",
+    "bytes": 23912
+  },
+  {
+    "path": "assets/fig03_cx_gate_coverage_revised.png",
+    "sha256": "a050aaf8b8fc20692820a76fcd44645043093f752bc5661b65ee0b1b4df388c5",
+    "bytes": 152644
+  },
+  {
+    "path": "assets/fig03_cx_gate_coverage_revised.svg",
+    "sha256": "4c5b0d704f453e45e01e749f2fddcd4f8a7f2ffd77e07a2570c8cd36ad40a714",
+    "bytes": 23742
+  },
+  {
+    "path": "assets/fig03_cx_gate_coverage_revised.tiff",
+    "sha256": "49068643f52198855b1f1ff4c827be7b7b8fc14b5f64bdcd11f4721165f4070c",
+    "bytes": 221220
+  },
+  {
+    "path": "assets/fig04_ac2_revised_v3.pdf",
+    "sha256": "96a57f9737fe7014abf757a95882bbcb8921e5ce1e90e673828d04ec0a467109",
+    "bytes": 247977
+  },
+  {
+    "path": "assets/fig05_decomposition_template_revised.alignment.json",
+    "sha256": "4c24c10d7b3e9af7b95e7dba6da858b3c2a3082ff90a83fbe33c1adddbf0b6b6",
+    "bytes": 842
+  },
+  {
+    "path": "assets/fig05_decomposition_template_revised.alignment.svg",
+    "sha256": "db097d696f88e25a5d878e22f3731a4d6badb712e58de251d72432f502eb1200",
+    "bytes": 527
+  },
+  {
+    "path": "assets/fig05_decomposition_template_revised.pdf",
+    "sha256": "5693ae72f4baf8fd908d500f7568baa0258fd922ae5f2e489a25e4e65bddcff3",
+    "bytes": 7072
+  },
+  {
+    "path": "assets/fig05_decomposition_template_revised.png",
+    "sha256": "ab7fbd0a384193af3f506a95bbd067f071a353d979b8eb63a0658cb3e294796e",
+    "bytes": 22589
+  },
+  {
+    "path": "assets/fig05_decomposition_template_revised.svg",
+    "sha256": "4273ce0f400ee424197e54f6d92ad58c7fd1f18124ede587672d83e5f0b771dc",
+    "bytes": 8975
+  },
+  {
+    "path": "assets/fig05_decomposition_template_revised.tiff",
+    "sha256": "ef4017b58f161fa9fb1fa620aa4ea504fde7268250fe25522d86add80dced005",
+    "bytes": 103166
+  },
+  {
+    "path": "assets/fig07_circuit_dag_compact_cxy.pdf",
+    "sha256": "1176c3d6666a251b7666f5a6ef919dba485d7654c3e83c9d3cb4ae946b7e94b9",
+    "bytes": 53890
+  },
+  {
+    "path": "assets/fig07_circuit_dag_compact_cxy.png",
+    "sha256": "986089afea53350302df3b659da68885b5a59174f6d49e64a66dc34e50b2804e",
+    "bytes": 45782
+  },
+  {
+    "path": "assets/fig08_routing_progress_single_column.pdf",
+    "sha256": "d39d25f3e328bbf247cb6ac38d80497c81dc8a86f7e5c0c76a4ae07db29d812a",
+    "bytes": 726448
+  },
+  {
+    "path": "assets/fig08_routing_progress_single_column.png",
+    "sha256": "dafcc93aacacc3179a0c2a9bda2c171b39d87632960244180d64eab8a4ab6ea5",
+    "bytes": 92838
+  },
+  {
+    "path": "assets/fig10_excess_amplitude_clear.alignment.json",
+    "sha256": "3fd8fa57b77813ba66aab1766ebfa4121f1c21b48d10706af571b5bc078aea3d",
+    "bytes": 843
+  },
+  {
+    "path": "assets/fig10_excess_amplitude_clear.alignment.svg",
+    "sha256": "d30d108a217a8639c561e3c2fdc167c90b5cd9c705e642f5334b2181bc90e4a4",
+    "bytes": 533
+  },
+  {
+    "path": "assets/fig10_excess_amplitude_clear.pdf",
+    "sha256": "040ef73b0468331f96e3758b41f6c28a42ed2ada687fad959f0d6a0876309dc8",
+    "bytes": 33847
+  },
+  {
+    "path": "assets/fig10_excess_amplitude_clear.png",
+    "sha256": "7651dd9f3313b8f675cedd7b7c63ed5f6957b3e8feeb4d99ebf270f25ad82f6b",
+    "bytes": 152752
+  },
+  {
+    "path": "assets/fig10_excess_amplitude_clear.svg",
+    "sha256": "53378b3e9d3e4fbcf05eca77500a6a55fdcb9e93e3fc96525784e1ff640951a3",
+    "bytes": 19630
+  },
+  {
+    "path": "assets/fig10_excess_amplitude_clear.tiff",
+    "sha256": "2ce72c6ac2d40af2dcf0ec85d07d7ad2e9433371698d9f87ed9e2d8f6a6915b8",
+    "bytes": 215022
+  },
+  {
+    "path": "assets/fig10_panel_a_v2.pdf",
+    "sha256": "2a37bf82f4c7b7cdbb660275aecb07dd293dafc233a11384e6bf680af29596bf",
+    "bytes": 20979
+  },
+  {
+    "path": "assets/fig10_panel_b_v2.pdf",
+    "sha256": "b166d22f4347fc0ced6be1a4e0c487f3283452a908f941814b38485e7ddf2cd4",
+    "bytes": 21209
+  },
+  {
+    "path": "assets/fig10_panel_c_v2.pdf",
+    "sha256": "298598be1fa070a73f55b96c7c4e918f36d438d1ab9f616ed2337193a73a5818",
+    "bytes": 15848
+  },
+  {
+    "path": "assets/fig13_restricted_topology_dual_axis.alignment.json",
+    "sha256": "4599af10a129ae119587434d265f2ae50c6952acd3c922c12a888e753e54104e",
+    "bytes": 1078
+  },
+  {
+    "path": "assets/fig13_restricted_topology_dual_axis.alignment.svg",
+    "sha256": "d821f058d4bbe604218bf975c9041127f9872b67c8169ce9163962a5c4d0a41e",
+    "bytes": 709
+  },
+  {
+    "path": "assets/fig13_restricted_topology_dual_axis.pdf",
+    "sha256": "26df5a565acc8c83a5f39f7de8ea7e8191e70af6c3a3b0da65408478e48752be",
+    "bytes": 52256
+  },
+  {
+    "path": "assets/fig13_restricted_topology_dual_axis.png",
+    "sha256": "eea985cd97d6eb0f52ce9aa61a15d7f30cb89770890bcff68d12733e683ac859",
+    "bytes": 386912
+  },
+  {
+    "path": "assets/fig13_restricted_topology_dual_axis.svg",
+    "sha256": "b64a06f51af30849bb44b94bb07f4bf0dae7daa66daf8b5e357e2878ed6064ff",
+    "bytes": 173630
+  },
+  {
+    "path": "assets/fig13_restricted_topology_dual_axis.tiff",
+    "sha256": "b73cb1c7cf5c3acdea221a30638d4aedf96a147e09370367aa3db37263d81e46",
+    "bytes": 1759678
+  },
+  {
+    "path": "assets/figure_06_standalone.pdf",
+    "sha256": "5bcb460da3e7b763199ba6fa1e1470c4cd3a678a473eaa30e0f86c315c228a5c",
+    "bytes": 58823
+  },
+  {
+    "path": "assets/figure_11_standalone.pdf",
+    "sha256": "c6e6654b885ba5dddef90b441aef0efadcd2121c2fded5ae088d295f096daeff",
+    "bytes": 50579
+  },
+  {
+    "path": "data/alltoall_60.csv",
+    "sha256": "76b960f823a1d7d9733b143e0c662711d5ce68754b038f0266f646f426edda37",
+    "bytes": 11600
+  },
+  {
+    "path": "data/alltoall_summary.json",
+    "sha256": "57dd83ffde67827c63edf3a3392cb5ec65256036b0696d9297e6a1867555454d",
+    "bytes": 387
+  },
+  {
+    "path": "data/fully_connected_fidelity_28.csv",
+    "sha256": "d7a5a2c811d0e9a21ca01c235a8200a6258016a1d5c2359e2791d23d0687a866",
+    "bytes": 1964
+  },
+  {
+    "path": "data/restricted_topology_30.csv",
+    "sha256": "dcc924aa48eca14951462618cc28b1231a1947a08c749c4b0b5cee3ab745f2ce",
+    "bytes": 4798
+  },
+  {
+    "path": "data/restricted_topology_family_means.csv",
+    "sha256": "845434430cc525514efd8734bcd21cc8281f19ff16618f4a6da11dc3f1f97f6f",
+    "bytes": 3556
+  },
+  {
+    "path": "data/table03_family_evolution_times.csv",
+    "sha256": "e2ff7ac0a755239398f895c43c1bab011e29b1b1ba9f732dabc09f0f6376fa9f",
+    "bytes": 1753
+  },
+  {
+    "path": "data/table04_instruction_set_summary.csv",
+    "sha256": "5a004d571f0aea5452381d0305689741b8af873d1cde855e0b66b8d22d3bb5f2",
+    "bytes": 429
+  },
+  {
+    "path": "figures/fig01_instruction_primitives.tex",
+    "sha256": "6ae15b3e4f81b4f17f8142ffbfd9ada9b9ea2546f70a57fad378e71bc13ebe20",
+    "bytes": 963
+  },
+  {
+    "path": "figures/fig01_instruction_primitives_revised.drawio",
+    "sha256": "93163c2eba73f38ca7779563221234242495be6ca9e5e90db5d66e0cd9302f7a",
+    "bytes": 37140
+  },
+  {
+    "path": "figures/fig02_weyl_chamber_gate_coordinates.tex",
+    "sha256": "2b817bc0a5e78aa58207b53f6e6ae90ca92f4110c7d439dec3cbcd68df4f29e2",
+    "bytes": 1278
+  },
+  {
+    "path": "figures/fig02_weyl_revised.drawio",
+    "sha256": "ab85a7a5977bbc79a5167236fedd1bf2b2d677743037a3e784fce0957c353291",
+    "bytes": 33736
+  },
+  {
+    "path": "figures/fig03_cx_gate_coverage.tex",
+    "sha256": "e1320c6ae4bb0e9194207036bd4e404fcc04ebaa35621a84c6362375b7c6797b",
+    "bytes": 723
+  },
+  {
+    "path": "figures/fig04_ac2_chamber_gate_coordinates.tex",
+    "sha256": "50d607839cd8dd5485518097bafe3f57d2a1c5145802576b2f504d8d88bc4a7a",
+    "bytes": 1506
+  },
+  {
+    "path": "figures/fig04_ac2_revised.drawio",
+    "sha256": "a4c14a8d8a808d21f33b396d7e0034fd36a6e2a01f7d27241d19b8db62953d7f",
+    "bytes": 29536
+  },
+  {
+    "path": "figures/fig05_decomposition_template.tex",
+    "sha256": "3d32f6973735775ff1b67867613f8caf57c4b52a4f6d960863f50a37b5492b7a",
+    "bytes": 463
+  },
+  {
+    "path": "figures/fig05_decomposition_template_revised.drawio",
+    "sha256": "01e8f91be814b859f7cd922388967fc1b81c605eb5498862062e62be2ab90c60",
+    "bytes": 7849
+  },
+  {
+    "path": "figures/fig06_qgsc_framework.tex",
+    "sha256": "9ffc60e825639308778eb226ec38fbec0e3098013a443dad5cac4cebc347ed55",
+    "bytes": 102
+  },
+  {
+    "path": "figures/fig06_qgsc_workflow.tex",
+    "sha256": "2affd1ac11cefe0116e0bcc4a5562f55c6fce3e5ec0b8bb256b95f445002e86c",
+    "bytes": 577
+  },
+  {
+    "path": "figures/fig06_qgsc_workflow_diagram.tex",
+    "sha256": "027bcc08e2c70fe5323772e951694175b7a678f992668369668622675a5b0d16",
+    "bytes": 2506
+  },
+  {
+    "path": "figures/fig08_circuit_and_dag.tex",
+    "sha256": "4a6927f9292b8c5d82d810f4c0ed284ad67aeff6d48661a96d7892313fce3a29",
+    "bytes": 605
+  },
+  {
+    "path": "figures/fig08_circuit_and_dag_revised.drawio",
+    "sha256": "5afa3d82db07287f477f2417982fed7bbfbd3bb1fe7c13e9963487bef6969df1",
+    "bytes": 20975
+  },
+  {
+    "path": "figures/fig09_routing_progress.tex",
+    "sha256": "9e7e3b1fdad172d4ce756a1dfc5a3a26c4bcfd6d3cb12b4ce2208f2e463a61ce",
+    "bytes": 742
+  },
+  {
+    "path": "figures/fig09_routing_progress_revised.drawio",
+    "sha256": "33508ea8de6b62f5eea7217a1dfbc5c8234fab592da25f3532286e1b7b476aca",
+    "bytes": 36796
+  },
+  {
+    "path": "figures/fig10_panel_a_v2.drawio",
+    "sha256": "661f4510f79619df77ba12378caa25e12a024dc12dfe25a0041bf8de8c1126a8",
+    "bytes": 8803
+  },
+  {
+    "path": "figures/fig10_panel_b_v2.drawio",
+    "sha256": "17eeb01616bc73866f329903957bf924e2dc0b1a53faadc971e840db54152139",
+    "bytes": 12073
+  },
+  {
+    "path": "figures/fig10_panel_c_v2.drawio",
+    "sha256": "ba14ae37c18d70aeea844ee7f2e6e17e2179d7ef94c3b566162c429e9847315f",
+    "bytes": 15347
+  },
+  {
+    "path": "figures/fig10_qft_compiled_circuit.tex",
+    "sha256": "295d93f2b3c6b3423e280a18006f59ab139be5b46f30b362740683fe4276797f",
+    "bytes": 1329
+  },
+  {
+    "path": "figures/fig11_excess_amplitude_gate_proportion.tex",
+    "sha256": "eadafb767b81114a7197d804ab550c58b3d696154eda72d9f9dfe2d1efa64ac0",
+    "bytes": 674
+  },
+  {
+    "path": "figures/fig13_fully_connected_fidelity.tex",
+    "sha256": "941e7e49a41c843c574976ef0128ad398656282cd1b6b830682d20ef15a186de",
+    "bytes": 7716
+  },
+  {
+    "path": "figures/fig13_restricted_topology_dual_axis.tex",
+    "sha256": "b2622526ebae591ad2352d76003479a3e820f84374ba4cd9caf68e1c82795cb5",
+    "bytes": 1446
+  },
+  {
+    "path": "inputs/fig07_geometry.pdf",
+    "sha256": "c7ac6c81c37e89a7c27d3d8ee992b6af73043c196a8ea6b82bafa30f9199907d",
+    "bytes": 50541
+  },
+  {
+    "path": "inputs/fig08_geometry.pdf",
+    "sha256": "6dc65b449a7673d72ba764418b51aa360363d585fce3f7ff4354fd5403115311",
+    "bytes": 47277
+  },
+  {
+    "path": "metadata/data_sources.json",
+    "sha256": "67697cab1521f4fa46ba7049da3dbf7084a8de855c94d9b12c8de1e17dff6c0c",
+    "bytes": 807
+  },
+  {
+    "path": "metadata/fig03_coverage_manifest.json",
+    "sha256": "1b585476a1a6ae0685cfe8b7813d0d7c217cb9fa16361cd18a46aa87f30e8604",
+    "bytes": 1252
+  },
+  {
+    "path": "metadata/fig05_decomposition_manifest.json",
+    "sha256": "9476132738148317058a5ed3e891bebae5ffa5e27fcedfe1b90a72dec6b8412f",
+    "bytes": 1786
+  },
+  {
+    "path": "metadata/fig07_cxy_layout.json",
+    "sha256": "c8467f69bc66f22b80b7fbf1a4d11f6aab736fdfc629ef627edb72f96e20504f",
+    "bytes": 504
+  },
+  {
+    "path": "metadata/fig08_bodyfont_manifest.json",
+    "sha256": "1352c5c0246f36ddffdd95015cc45ff414c4a636f92e482369efc774c9bf63ed",
+    "bytes": 199
+  },
+  {
+    "path": "metadata/fig10_clear_manifest.json",
+    "sha256": "1e58221b580517a517be953c66f5f9fe0b9abfa542f1a0d849cb6b2a64d6c9cf",
+    "bytes": 954
+  },
+  {
+    "path": "metadata/figure_index.json",
+    "sha256": "a42e89e4e84454f73f5cade8773a9d9d5f4f7d0af878abb95a13e953206405b1",
+    "bytes": 1043
+  },
+  {
+    "path": "metadata/restricted_dual_axis_plot_manifest.json",
+    "sha256": "589dfc488a7eec5efe4bb2a3cf8d5e9a6bded2e5361c0558d0d80f09099dd599",
+    "bytes": 15289
+  },
+  {
+    "path": "metadata/source_manifest.json",
+    "sha256": "67f61437588e20337d8ef00567cd2c56f31892f159840238effa357613372ec1",
+    "bytes": 17342
+  },
+  {
+    "path": "metadata/verification.json",
+    "sha256": "f6089867d024942815571929168abde0ae167baa33d1aa1004b1435b51b4bfd1",
+    "bytes": 1289
+  },
+  {
+    "path": "plotting/fig08_bodyfont.py",
+    "sha256": "6cdd71c078b3e46e33327116d9969a30567f8518478b34b7094c88ed11ab1c91",
+    "bytes": 1581
+  },
+  {
+    "path": "plotting/figure_06_standalone.tex",
+    "sha256": "f36046043ea161e3c35abc6a9209b0f33e402022a01e280422aa77324faee73a",
+    "bytes": 247
+  },
+  {
+    "path": "plotting/figure_11_standalone.tex",
+    "sha256": "5c5aa74895d0a6431b8a5d46c3f5e75d33f19dc81a54be9f0346c80144fd58c9",
+    "bytes": 7222
+  },
+  {
+    "path": "plotting/figure_qa/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "path": "plotting/figure_qa/audit_panel_alignment.py",
+    "sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76",
+    "bytes": 39364
+  },
+  {
+    "path": "plotting/fonts.py",
+    "sha256": "bc40c02e3b6fcb690659d4911e7477ee459285e10635ff5d524ae0a5db44f3b4",
+    "bytes": 455
+  },
+  {
+    "path": "plotting/generate_fig01_from_drawio.py",
+    "sha256": "c003202e48a1d52149f5463fe715fb99fa5766e25605551d272dee2299a7a4d2",
+    "bytes": 6108
+  },
+  {
+    "path": "plotting/plot_fig03_coverage.py",
+    "sha256": "382556c2f160a87f742638320cb2e89441c91007231d55db2e4e611bbbfe2637",
+    "bytes": 4030
+  },
+  {
+    "path": "plotting/plot_fig05_decomposition.py",
+    "sha256": "b0b7e3666a523169a2acb1d7219bab704fbb4c78d135a00484e37114511bff9f",
+    "bytes": 4894
+  },
+  {
+    "path": "plotting/plot_fig10_clear.py",
+    "sha256": "bb6198c2ccb4ff32261236354c5383a00af3dc5df05a04be20aa7a90b0792ae5",
+    "bytes": 3198
+  },
+  {
+    "path": "plotting/plot_restricted_dual_axis.py",
+    "sha256": "496fb679eba639f50723ed9a008c3a003cd9f9071e537e69f1a0735b7fead1f7",
+    "bytes": 14078
+  },
+  {
+    "path": "plotting/reflow_fig07_cxy.py",
+    "sha256": "a9c30e122f9f176653db2340106d78eddb58609385e94fe1b68b8d0e9f80cd66",
+    "bytes": 1436
+  },
+  {
+    "path": "plotting/reproduce.py",
+    "sha256": "cb36b7aff428c05128310688c0c19e26a7652900f46cca53f82624534651f317",
+    "bytes": 2522
+  },
+  {
+    "path": "README.md",
+    "sha256": "dc6a195a4da533c747be89faf1fb4fa3a9c599cc2d93323f07b2482a71e1b4dd",
+    "bytes": 5893
+  },
+  {
+    "path": "tables/tab01_conventional_instruction_set_times.tex",
+    "sha256": "b9aaa8a0dda00f621f7a494ebe56336680be2eee586927d0864b15984fb22f9f",
+    "bytes": 4328
+  },
+  {
+    "path": "tables/tab03_conventional_decomposition_counts.tex",
+    "sha256": "cb71e0af83d3afd4ff62bd8f91201bb6484fa590ed21be7d61626b087ce5a504",
+    "bytes": 961
+  }
+]

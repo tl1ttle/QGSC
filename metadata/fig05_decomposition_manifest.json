@@ -1,0 +1,102 @@
+{
+  "dimensions_mm": [
+    86,
+    27
+  ],
+  "palette_source": "figures/fig10_panel_c_v2.drawio",
+  "palette": {
+    "U3": "#E5EFF7",
+    "G": "#FBEADB"
+  },
+  "topology": "Two wires, three local U3 layers, two shown G(theta) gates and an ellipsis for the repeated sequence.",
+  "label_font_pt": 7.8,
+  "minimum_subscript_font_pt": 5.46,
+  "shown_gate_counts": {
+    "U3": 6,
+    "G": 2
+  },
+  "text_color": "black",
+  "all_graphics": "vector PDF/SVG",
+  "gates": [
+    {
+      "type": "U3",
+      "center": [
+        23,
+        8
+      ],
+      "width": 8.4,
+      "height": 7,
+      "label": "U<sub>3</sub>"
+    },
+    {
+      "type": "U3",
+      "center": [
+        23,
+        20
+      ],
+      "width": 8.4,
+      "height": 7,
+      "label": "U<sub>3</sub>"
+    },
+    {
+      "type": "U3",
+      "center": [
+        50,
+        8
+      ],
+      "width": 8.4,
+      "height": 7,
+      "label": "U<sub>3</sub>"
+    },
+    {
+      "type": "U3",
+      "center": [
+        50,
+        20
+      ],
+      "width": 8.4,
+      "height": 7,
+      "label": "U<sub>3</sub>"
+    },
+    {
+      "type": "U3",
+      "center": [
+        91,
+        8
+      ],
+      "width": 8.4,
+      "height": 7,
+      "label": "U<sub>3</sub>"
+    },
+    {
+      "type": "U3",
+      "center": [
+        91,
+        20
+      ],
+      "width": 8.4,
+      "height": 7,
+      "label": "U<sub>3</sub>"
+    },
+    {
+      "type": "G",
+      "center": [
+        36,
+        14
+      ],
+      "width": 12,
+      "height": 19.2,
+      "label": "G(\u03b8)"
+    },
+    {
+      "type": "G",
+      "center": [
+        78,
+        14
+      ],
+      "width": 12,
+      "height": 19.2,
+      "label": "G(\u03b8)"
+    }
+  ]
+}

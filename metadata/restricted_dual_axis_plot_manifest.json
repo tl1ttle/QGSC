@@ -1,0 +1,625 @@
+{
+  "rows": 18,
+  "source_sha256": "dcc924aa48eca14951462618cc28b1231a1947a08c749c4b0b5cee3ab745f2ce",
+  "source_rows": 30,
+  "exclusion": {
+    "rule": "Previously requested exclusions retained",
+    "circuits": [
+      "adder_n4",
+      "qft_16",
+      "qft_20",
+      "qft_n18"
+    ],
+    "before": 34,
+    "after": 30
+  },
+  "plotted_values": 180,
+  "mean_lines": 10,
+  "series": [
+    {
+      "topology": "chain",
+      "metric": "time_reduction_percent",
+      "method": "SQiSW",
+      "values": [
+        49.99999999999469,
+        50.00000000000227,
+        49.01315789460872,
+        50.00000000429524,
+        46.57514866571097,
+        49.20370370119621,
+        55.55555555558859,
+        44.99999999981811,
+        39.21568627465666,
+        50.0,
+        46.15384615459954,
+        52.48226950138785,
+        45.23809523809646,
+        50.0,
+        46.77419354846991,
+        51.048766156279775,
+        56.36175492838569,
+        50.432276658676265
+      ],
+      "display_values": [
+        49.99999999999469,
+        50.00000000000227,
+        49.01315789460872,
+        50.00000000429524,
+        46.57514866571097,
+        49.20370370119621,
+        55.55555555558859,
+        44.99999999981811,
+        39.21568627465666,
+        50.0,
+        46.15384615459954,
+        52.48226950138785,
+        45.23809523809646,
+        50.0,
+        46.77419354846991,
+        51.048766156279775,
+        56.36175492838569,
+        50.432276658676265
+      ],
+      "mean": 50.044686953449464,
+      "display_mean": 50.044686953449464,
+      "display_transform": "max(original,0); mean calculated before clipping"
+    },
+    {
+      "topology": "chain",
+      "metric": "time_reduction_percent",
+      "method": "B",
+      "values": [
+        0.0,
+        28.57142857142987,
+        19.736842105312746,
+        0.0,
+        37.517742339731825,
+        28.81481481505252,
+        32.318514674872624,
+        17.142857143220937,
+        17.64705882334585,
+        0.0,
+        15.38461538649888,
+        33.33333333318282,
+        4.761904761905056,
+        31.789473683941065,
+        12.903225806120389,
+        27.162089625965862,
+        30.658399814422282,
+        29.682997118169364
+      ],
+      "display_values": [
+        0.0,
+        28.57142857142987,
+        19.736842105312746,
+        0.0,
+        37.517742339731825,
+        28.81481481505252,
+        32.318514674872624,
+        17.142857143220937,
+        17.64705882334585,
+        0.0,
+        15.38461538649888,
+        33.33333333318282,
+        4.761904761905056,
+        31.789473683941065,
+        12.903225806120389,
+        27.162089625965862,
+        30.658399814422282,
+        29.682997118169364
+      ],
+      "mean": 22.778102647071698,
+      "display_mean": 22.778102647071698,
+      "display_transform": "max(original,0); mean calculated before clipping"
+    },
+    {
+      "topology": "chain",
+      "metric": "time_reduction_percent",
+      "method": "UGS",
+      "values": [
+        66.17652790281865,
+        50.00000000000227,
+        49.01315789460872,
+        57.086059876692524,
+        57.466046032743215,
+        49.20370370381343,
+        56.033020384864244,
+        44.99999999981811,
+        39.21568627465666,
+        57.32528294959851,
+        46.15384615459954,
+        52.48226950138785,
+        45.23809523809646,
+        50.059683103659665,
+        46.77419354846991,
+        53.18840579652212,
+        56.361754930558895,
+        50.432276658676265
+      ],
+      "display_values": [
+        66.17652790281865,
+        50.00000000000227,
+        49.01315789460872,
+        57.086059876692524,
+        57.466046032743215,
+        49.20370370381343,
+        56.033020384864244,
+        44.99999999981811,
+        39.21568627465666,
+        57.32528294959851,
+        46.15384615459954,
+        52.48226950138785,
+        45.23809523809646,
+        50.059683103659665,
+        46.77419354846991,
+        53.18840579652212,
+        56.361754930558895,
+        50.432276658676265
+      ],
+      "mean": 52.89146569339407,
+      "display_mean": 52.89146569339407,
+      "display_transform": "max(original,0); mean calculated before clipping"
+    },
+    {
+      "topology": "chain",
+      "metric": "hellinger_fidelity",
+      "method": "SQiSW",
+      "values": [
+        0.997803,
+        0.995117,
+        0.936768,
+        0.9389310000000001,
+        0.9247303333333333,
+        0.9174420000000001,
+        0.7778086666666666,
+        0.984475,
+        0.973967,
+        0.876996,
+        0.993164,
+        0.832879,
+        0.986538,
+        0.907356,
+        0.987085,
+        0.9397653333333333,
+        0.954257,
+        0.750244
+      ],
+      "mean": 0.9190369666666667
+    },
+    {
+      "topology": "chain",
+      "metric": "hellinger_fidelity",
+      "method": "UGS",
+      "values": [
+        0.999512,
+        0.995117,
+        0.936768,
+        0.9390156666666667,
+        0.931771,
+        0.923295,
+        0.781912,
+        0.984475,
+        0.973967,
+        0.888915,
+        0.993164,
+        0.832879,
+        0.989132,
+        0.9113910000000001,
+        0.987085,
+        0.9430976666666666,
+        0.9554886666666667,
+        0.750244
+      ],
+      "mean": 0.9218161666666665
+    },
+    {
+      "topology": "grid",
+      "metric": "time_reduction_percent",
+      "method": "SQiSW",
+      "values": [
+        49.99999999999469,
+        50.0,
+        49.53987730055329,
+        49.71751412551301,
+        48.240339909597786,
+        41.522988505368865,
+        55.55555555575204,
+        39.58333333327807,
+        50.00000000748965,
+        63.157894736930274,
+        50.0,
+        51.96078431459439,
+        20.833333333331794,
+        48.21796759920325,
+        42.241379307335826,
+        51.75438595956303,
+        50.00000000065453,
+        43.582887700555695
+      ],
+      "display_values": [
+        49.99999999999469,
+        50.0,
+        49.53987730055329,
+        49.71751412551301,
+        48.240339909597786,
+        41.522988505368865,
+        55.55555555575204,
+        39.58333333327807,
+        50.00000000748965,
+        63.157894736930274,
+        50.0,
+        51.96078431459439,
+        20.833333333331794,
+        48.21796759920325,
+        42.241379307335826,
+        51.75438595956303,
+        50.00000000065453,
+        43.582887700555695
+      ],
+      "mean": 48.53949296321496,
+      "display_mean": 48.53949296321496,
+      "display_transform": "max(original,0); mean calculated before clipping"
+    },
+    {
+      "topology": "grid",
+      "metric": "time_reduction_percent",
+      "method": "B",
+      "values": [
+        0.0,
+        29.999999999998728,
+        26.993865030691623,
+        17.177769017896082,
+        19.079685742141347,
+        -1.7241379268710944,
+        31.55555555533969,
+        4.166666665892982,
+        29.411764717513332,
+        31.578947368465137,
+        21.73913044055912,
+        13.725490196543477,
+        -49.999999999997335,
+        30.427098674527723,
+        13.793103444112464,
+        25.23616732840125,
+        23.563218391402714,
+        -6.951871657632047
+      ],
+      "display_values": [
+        0.0,
+        29.999999999998728,
+        26.993865030691623,
+        17.177769017896082,
+        19.079685742141347,
+        0.0,
+        31.55555555533969,
+        4.166666665892982,
+        29.411764717513332,
+        31.578947368465137,
+        21.73913044055912,
+        13.725490196543477,
+        0.0,
+        30.427098674527723,
+        13.793103444112464,
+        25.23616732840125,
+        23.563218391402714,
+        0.0
+      ],
+      "mean": 17.390006860233466,
+      "display_mean": 17.390006860233466,
+      "display_transform": "max(original,0); mean calculated before clipping"
+    },
+    {
+      "topology": "grid",
+      "metric": "time_reduction_percent",
+      "method": "UGS",
+      "values": [
+        66.17652790281865,
+        50.0,
+        49.53987730055329,
+        49.717514122659615,
+        48.24033990370315,
+        41.522988505368865,
+        56.0330203850277,
+        39.58333333327807,
+        48.82352942004737,
+        63.157894736930274,
+        50.0,
+        51.96078431459439,
+        20.833333333331794,
+        48.21796759920325,
+        44.30072846221778,
+        51.75438595956303,
+        50.60565512979871,
+        43.582887700555695
+      ],
+      "display_values": [
+        66.17652790281865,
+        50.0,
+        49.53987730055329,
+        49.717514122659615,
+        48.24033990370315,
+        41.522988505368865,
+        56.0330203850277,
+        39.58333333327807,
+        48.82352942004737,
+        63.157894736930274,
+        50.0,
+        51.96078431459439,
+        20.833333333331794,
+        48.21796759920325,
+        44.30072846221778,
+        51.75438595956303,
+        50.60565512979871,
+        43.582887700555695
+      ],
+      "mean": 49.21645184052427,
+      "display_mean": 49.21645184052427,
+      "display_transform": "max(original,0); mean calculated before clipping"
+    },
+    {
+      "topology": "grid",
+      "metric": "hellinger_fidelity",
+      "method": "SQiSW",
+      "values": [
+        0.997803,
+        0.993652,
+        0.887939,
+        0.9378526666666667,
+        0.9334933333333334,
+        0.9757495,
+        0.7803346666666666,
+        0.98641,
+        0.979362,
+        0.880017,
+        0.992432,
+        0.935361,
+        0.99369,
+        0.9166795,
+        0.983932,
+        0.9628106666666666,
+        0.9643326666666666,
+        0.883089
+      ],
+      "mean": 0.9345005666666666
+    },
+    {
+      "topology": "grid",
+      "metric": "hellinger_fidelity",
+      "method": "UGS",
+      "values": [
+        0.998291,
+        0.993652,
+        0.890869,
+        0.9399833333333333,
+        0.9334933333333334,
+        0.9760465,
+        0.782123,
+        0.98641,
+        0.980037,
+        0.881693,
+        0.992432,
+        0.945485,
+        0.99369,
+        0.9166795,
+        0.983932,
+        0.9666093333333333,
+        0.9652503333333332,
+        0.884521
+      ],
+      "mean": 0.9359614
+    }
+  ],
+  "label_mapping": {
+    "b-change3": {
+      "members": [
+        "basis_change_n3"
+      ],
+      "qubits": [
+        3
+      ],
+      "count": 1
+    },
+    "b-test4": {
+      "members": [
+        "basis_test_n4"
+      ],
+      "qubits": [
+        4
+      ],
+      "count": 1
+    },
+    "trotter4": {
+      "members": [
+        "basis_trotter_n4"
+      ],
+      "qubits": [
+        4
+      ],
+      "count": 1
+    },
+    "bmw-card(6-10)": {
+      "members": [
+        "bmw_quark_cardinality_n10",
+        "bmw_quark_cardinality_n6",
+        "bmw_quark_cardinality_n8"
+      ],
+      "qubits": [
+        6,
+        8,
+        10
+      ],
+      "count": 3
+    },
+    "bmw-cop(6-10)": {
+      "members": [
+        "bmw_quark_copula_n10",
+        "bmw_quark_copula_n6",
+        "bmw_quark_copula_n8"
+      ],
+      "qubits": [
+        6,
+        8,
+        10
+      ],
+      "count": 3
+    },
+    "bv(14-19)": {
+      "members": [
+        "bv_n14",
+        "bv_n19"
+      ],
+      "qubits": [
+        14,
+        19
+      ],
+      "count": 2
+    },
+    "dnn(2-16)": {
+      "members": [
+        "dnn_n16",
+        "dnn_n2",
+        "dnn_n8"
+      ],
+      "qubits": [
+        2,
+        8,
+        16
+      ],
+      "count": 3
+    },
+    "err-corr5": {
+      "members": [
+        "error_correctiond3_n5"
+      ],
+      "qubits": [
+        5
+      ],
+      "count": 1
+    },
+    "hhl7": {
+      "members": [
+        "hhl_n7"
+      ],
+      "qubits": [
+        7
+      ],
+      "count": 1
+    },
+    "ising10": {
+      "members": [
+        "ising_n10"
+      ],
+      "qubits": [
+        10
+      ],
+      "count": 1
+    },
+    "pea5": {
+      "members": [
+        "pea_n5"
+      ],
+      "qubits": [
+        5
+      ],
+      "count": 1
+    },
+    "qec9xz17": {
+      "members": [
+        "qec9xz_n17"
+      ],
+      "qubits": [
+        17
+      ],
+      "count": 1
+    },
+    "qec-en5": {
+      "members": [
+        "qec_en_n5"
+      ],
+      "qubits": [
+        5
+      ],
+      "count": 1
+    },
+    "qft(8-10)": {
+      "members": [
+        "qft_10",
+        "qft_8"
+      ],
+      "qubits": [
+        8,
+        10
+      ],
+      "count": 2
+    },
+    "qpe9": {
+      "members": [
+        "qpe_n9"
+      ],
+      "qubits": [
+        9
+      ],
+      "count": 1
+    },
+    "qpe-ex(6-10)": {
+      "members": [
+        "qpeexact_n10",
+        "qpeexact_n6",
+        "qpeexact_n8"
+      ],
+      "qubits": [
+        6,
+        8,
+        10
+      ],
+      "count": 3
+    },
+    "qpe-in(6-10)": {
+      "members": [
+        "qpeinexact_n10",
+        "qpeinexact_n6",
+        "qpeinexact_n8"
+      ],
+      "qubits": [
+        6,
+        8,
+        10
+      ],
+      "count": 3
+    },
+    "qram20": {
+      "members": [
+        "qram_n20"
+      ],
+      "qubits": [
+        20
+      ],
+      "count": 1
+    }
+  },
+  "rotated_label_qa": {
+    "method": "Separate parallel text rectangles along their common normal, using measured unrotated renderer heights.",
+    "angle_deg": 60,
+    "minimum_clearance_pt": 9.949095397704541,
+    "label_count": 18,
+    "verdict": "PASS",
+    "note": "Axis-aligned text boxes overlap for rotated text; this oriented check establishes nonoverlap."
+  },
+  "aggregation": "Arithmetic means within each circuit family, before display clipping; horizontal means weighted by family size to preserve original 30-circuit means.",
+  "contract": {
+    "dimensions_mm": [
+      180,
+      124.46
+    ],
+    "minimum_font_pt": 5.8,
+    "axes": {
+      "left": "Time reduction relative to CX (%), 0 to 75; negative bars displayed as zero",
+      "right": "Hellinger fidelity, 0.4 to 1.02; major ticks 0.4, 0.7, 0.8, 0.9, 1.0; minor ticks 0.92, 0.94, 0.96, 0.98 on a piecewise scale: axis positions for 0.4,0.7,0.8,0.9,1.0 are 0,0.4,0.8,1.6,4.6; lower range compressed and 0.9--1.0 expanded"
+    },
+    "display_transform": "Negative time reductions clipped to zero for display only; all means use original signed data. Fidelity values below 0.4 are outside the displayed range but remain in mean calculations.",
+    "connections": "No circuit-to-circuit or within-group connections. Each bar/point is a family arithmetic mean. Dotted horizontal lines are mean time reductions; dashed horizontal lines are mean fidelities. No final Mean group.",
+    "methods": "Time: SQiSW, B, UGS; fidelity: SQiSW, UGS. iSWAP and SU(4) removed from this comparison at author request; source data retained.",
+    "symbols": "SQiSW and B time: solid; UGS time: diagonal lines. SQiSW fidelity: filled circle; UGS fidelity: filled square. Legend symbols match plotted marks.",
+    "uncertainty": "No replicate uncertainties supplied; no error bars invented."
+  }
+}

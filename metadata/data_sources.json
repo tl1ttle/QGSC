@@ -1,0 +1,21 @@
+{
+  "alltoall_60.csv": [
+    "assets/fig10_circuit_source_60.csv",
+    "support/chapter6_tableIII_exact60_rows_20261023.json",
+    "support/chapter6_exact60_audit_20261023.json",
+    "support/fig10_raw51 (selected observations only)",
+    "support/table3_ten_gate_set_comparison.csv (selected observations only)"
+  ],
+  "fully_connected_fidelity_28.csv": [
+    "figures/fig13_fully_connected_fidelity.tex (168 plotted coordinates)"
+  ],
+  "restricted_topology_30.csv": [
+    "assets/restricted_topology_30_selected.csv (plotted methods only)"
+  ],
+  "table03_family_evolution_times.csv": [
+    "tables/tab01_conventional_instruction_set_times.tex"
+  ],
+  "table04_instruction_set_summary.csv": [
+    "support/chapter6_exact60_audit_20261023.json (verified from selected 60 rows)"
+  ]
+}

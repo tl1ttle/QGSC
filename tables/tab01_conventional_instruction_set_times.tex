@@ -1,0 +1,54 @@
+% 2026-10-23：删除Ising-420，同名系列按实际线路数量加权合并，32和100改名Random-Haar。
+% cxy批注修改：9pt字号下单栏过挤，改为通栏，避免表头与数据相接。
+% cxy批注修改：表内文字由scriptsize改为small，与图表题字号一致，数值不变。
+% 与图12保持命名一致：qpe-ex=qpeexact；qpe-in=qpeinexact；err-corr=error_correctiond3；trotter=basis_trotter。括号内为该线路系列的线路数量，Qubits列为比特数或范围。
+% 名称缩写：bmw-card=bmw_quark_cardinality；bmw-cop=bmw_quark_copula；err-corr=error_correctiond3。
+% 2026-10-23：恢复输入线路2Q门数量列，合并十条新增线路，共60条。
+% 本轮核对：全部60条采用对应运行的逐线路原始时间，先合并再四舍五入；修正QFT三格及KNN一格末位。
+% v3批注修改：由原图逐行重建可编辑表格；统一单位移入正文，缩短表头并增大字号。
+\begin{table*}[!tbp]\centering\color{black}
+\caption{Comparison of evolution times for conventional instruction sets.  Parentheses indicate circuit counts; grouped rows report mean times.}\label{tab:1}
+% 翻译：表1：传统指令集的演化时间比较；统一单位g^(-1)在正文中说明。
+\vspace{2pt}
+\begingroup\small
+\setlength{\tabcolsep}{1pt}\renewcommand{\arraystretch}{1.08}
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}*{7}{c}@{}}
+\toprule
+\textbf{Circuit} & \textbf{Qubits} & \textbf{2Q gates} & \textbf{CX} & \textbf{SQiSW} & \textbf{iSWAP} & \textbf{B} & \textbf{UGS}\\
+\midrule
+bmw-card (4) & 4--10 & 9--27 & 31.42 & 15.71 & 31.42 & 31.42 & \textbf{13.27} \\
+vqe & 4 & 9 & \textbf{11.00} & \textbf{11.00} & 21.99 & 21.99 & \textbf{11.00} \\
+pea & 5 & 21 & 23.56 & 12.57 & 25.13 & 25.13 & \textbf{9.55} \\
+bv (2) & 14--19 & 13--18 & \textbf{24.35} & \textbf{24.35} & 48.69 & 48.69 & \textbf{24.35} \\
+bmw-cop (3) & 6--10 & 15--45 & 29.85 & 15.71 & 31.42 & 31.42 & \textbf{13.98} \\
+qpe-ex (3) & 6--10 & 16--47 & 55.50 & \textbf{28.54} & 57.07 & 55.50 & \textbf{28.54} \\
+qpe-in (3) & 6--10 & 17--49 & 61.26 & \textbf{30.63} & 61.26 & 59.69 & \textbf{30.63} \\
+qaoa & 6 & 54 & 34.56 & 17.28 & 34.56 & 34.56 & \textbf{5.38} \\
+cat-state & 22 & 21 & \textbf{32.99} & \textbf{32.99} & 65.97 & 65.97 & \textbf{32.99} \\
+ghz-state & 23 & 22 & \textbf{34.56} & \textbf{34.56} & 69.12 & 69.12 & \textbf{34.56} \\
+err-corr & 5 & 49 & 72.26 & \textbf{43.98} & 87.96 & 69.12 & \textbf{43.98} \\
+dnn (4) & 8--51 & 60--384 & 115.45 & 73.83 & 147.65 & 127.63 & \textbf{67.23} \\
+qpe & 9 & 16 & 59.69 & 36.13 & 72.26 & 72.26 & \textbf{28.64} \\
+ising (2) & 10--26 & 50--90 & 18.85 & 9.42 & 18.85 & 18.85 & \textbf{8.25} \\
+qft (8) & 8--320 & 28--102080 & 473.60 & 236.80 & 473.60 & 473.60 & \textbf{103.93} \\
+qec9xz & 17 & 32 & \textbf{18.85} & \textbf{18.85} & 37.70 & 37.70 & \textbf{18.85} \\
+multiply & 13 & 4 & 34.56 & 28.27 & 56.55 & 56.55 & \textbf{26.52} \\
+hhl (2) & 7--14 & 15--36 & 152.37 & \textbf{76.97} & 153.94 & 150.80 & \textbf{76.97} \\
+adder & 10 & 1 & 87.96 & 57.33 & 114.67 & 102.10 & \textbf{54.63} \\
+sat (2) & 7--11 & 0 & 150.01 & \textbf{136.66} & 274.10 & 271.75 & \textbf{136.66} \\
+vqe-uccsd & 4 & 88 & 106.81 & 76.97 & 147.65 & 153.94 & \textbf{74.17} \\
+wstate & 27 & 52 & \textbf{43.98} & \textbf{43.98} & 87.96 & 87.96 & \textbf{43.98} \\
+knn (2) & 25--341 & 0--1360 & 919.70 & 583.16 & 1127.05 & 1002.17 & \textbf{580.48} \\
+swap-test (2) & 25--361 & 0--1440 & 1013.16 & 623.21 & 1172.60 & 1062.64 & \textbf{620.53} \\
+qf21 & 15 & 46 & 166.50 & 95.82 & 191.64 & 191.64 & \textbf{73.19} \\
+bigadder & 18 & 0 & 138.23 & 93.46 & 185.35 & 166.50 & \textbf{87.52} \\
+trotter & 4 & 462 & 235.62 & \textbf{120.17} & 223.05 & 191.64 & \textbf{120.17} \\
+qugan (3) & 39--111 & 72--216 & 569.15 & 314.68 & 629.37 & 461.29 & \textbf{290.82} \\
+multiplier (2) & 15--45 & 30--2286 & 1429.42 & \textbf{971.93} & 1949.36 & 1856.68 & \textbf{971.93} \\
+gcm-h6 & 13 & 762 & 537.21 & \textbf{270.96} & 551.35 & 442.96 & \textbf{270.96} \\
+Random-Haar (2) & 32--100 & 1536--15000 & 311.02 & 136.66 & 311.02 & 207.35 & \textbf{134.60} \\
+\midrule
+Overall (60) & 4--361 & 0--102080 & 269.99 & 159.00 & 315.44 & 287.93 & \textbf{138.15} \\
+\bottomrule
+\end{tabular*}\endgroup
+\end{table*}

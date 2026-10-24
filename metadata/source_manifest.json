@@ -1,0 +1,331 @@
+[
+  {
+    "source": "figures/fig01_instruction_primitives.tex",
+    "destination": "figures/fig01_instruction_primitives.tex",
+    "source_sha256": "6ae15b3e4f81b4f17f8142ffbfd9ada9b9ea2546f70a57fad378e71bc13ebe20",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "6ae15b3e4f81b4f17f8142ffbfd9ada9b9ea2546f70a57fad378e71bc13ebe20"
+  },
+  {
+    "source": "figures/fig02_weyl_chamber_gate_coordinates.tex",
+    "destination": "figures/fig02_weyl_chamber_gate_coordinates.tex",
+    "source_sha256": "2b817bc0a5e78aa58207b53f6e6ae90ca92f4110c7d439dec3cbcd68df4f29e2",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "2b817bc0a5e78aa58207b53f6e6ae90ca92f4110c7d439dec3cbcd68df4f29e2"
+  },
+  {
+    "source": "figures/fig03_cx_gate_coverage.tex",
+    "destination": "figures/fig03_cx_gate_coverage.tex",
+    "source_sha256": "e1320c6ae4bb0e9194207036bd4e404fcc04ebaa35621a84c6362375b7c6797b",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "e1320c6ae4bb0e9194207036bd4e404fcc04ebaa35621a84c6362375b7c6797b"
+  },
+  {
+    "source": "figures/fig04_ac2_chamber_gate_coordinates.tex",
+    "destination": "figures/fig04_ac2_chamber_gate_coordinates.tex",
+    "source_sha256": "50d607839cd8dd5485518097bafe3f57d2a1c5145802576b2f504d8d88bc4a7a",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "50d607839cd8dd5485518097bafe3f57d2a1c5145802576b2f504d8d88bc4a7a"
+  },
+  {
+    "source": "figures/fig05_decomposition_template.tex",
+    "destination": "figures/fig05_decomposition_template.tex",
+    "source_sha256": "3d32f6973735775ff1b67867613f8caf57c4b52a4f6d960863f50a37b5492b7a",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "3d32f6973735775ff1b67867613f8caf57c4b52a4f6d960863f50a37b5492b7a"
+  },
+  {
+    "source": "figures/fig06_qgsc_framework.tex",
+    "destination": "figures/fig06_qgsc_framework.tex",
+    "source_sha256": "9ffc60e825639308778eb226ec38fbec0e3098013a443dad5cac4cebc347ed55",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "9ffc60e825639308778eb226ec38fbec0e3098013a443dad5cac4cebc347ed55"
+  },
+  {
+    "source": "figures/fig08_circuit_and_dag.tex",
+    "destination": "figures/fig08_circuit_and_dag.tex",
+    "source_sha256": "4a6927f9292b8c5d82d810f4c0ed284ad67aeff6d48661a96d7892313fce3a29",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "4a6927f9292b8c5d82d810f4c0ed284ad67aeff6d48661a96d7892313fce3a29"
+  },
+  {
+    "source": "figures/fig09_routing_progress.tex",
+    "destination": "figures/fig09_routing_progress.tex",
+    "source_sha256": "9e7e3b1fdad172d4ce756a1dfc5a3a26c4bcfd6d3cb12b4ce2208f2e463a61ce",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "9e7e3b1fdad172d4ce756a1dfc5a3a26c4bcfd6d3cb12b4ce2208f2e463a61ce"
+  },
+  {
+    "source": "figures/fig10_qft_compiled_circuit.tex",
+    "destination": "figures/fig10_qft_compiled_circuit.tex",
+    "source_sha256": "295d93f2b3c6b3423e280a18006f59ab139be5b46f30b362740683fe4276797f",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "295d93f2b3c6b3423e280a18006f59ab139be5b46f30b362740683fe4276797f"
+  },
+  {
+    "source": "figures/fig11_excess_amplitude_gate_proportion.tex",
+    "destination": "figures/fig11_excess_amplitude_gate_proportion.tex",
+    "source_sha256": "eadafb767b81114a7197d804ab550c58b3d696154eda72d9f9dfe2d1efa64ac0",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "eadafb767b81114a7197d804ab550c58b3d696154eda72d9f9dfe2d1efa64ac0"
+  },
+  {
+    "source": "figures/fig13_fully_connected_fidelity.tex",
+    "destination": "figures/fig13_fully_connected_fidelity.tex",
+    "source_sha256": "941e7e49a41c843c574976ef0128ad398656282cd1b6b830682d20ef15a186de",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "941e7e49a41c843c574976ef0128ad398656282cd1b6b830682d20ef15a186de"
+  },
+  {
+    "source": "figures/fig13_restricted_topology_dual_axis.tex",
+    "destination": "figures/fig13_restricted_topology_dual_axis.tex",
+    "source_sha256": "b2622526ebae591ad2352d76003479a3e820f84374ba4cd9caf68e1c82795cb5",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "b2622526ebae591ad2352d76003479a3e820f84374ba4cd9caf68e1c82795cb5"
+  },
+  {
+    "source": "figures/fig06_qgsc_workflow.tex",
+    "destination": "figures/fig06_qgsc_workflow.tex",
+    "source_sha256": "2affd1ac11cefe0116e0bcc4a5562f55c6fce3e5ec0b8bb256b95f445002e86c",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "2affd1ac11cefe0116e0bcc4a5562f55c6fce3e5ec0b8bb256b95f445002e86c"
+  },
+  {
+    "source": "figures/fig06_qgsc_workflow_diagram.tex",
+    "destination": "figures/fig06_qgsc_workflow_diagram.tex",
+    "source_sha256": "027bcc08e2c70fe5323772e951694175b7a678f992668369668622675a5b0d16",
+    "purpose": "current manuscript figure LaTeX",
+    "packaged_sha256": "027bcc08e2c70fe5323772e951694175b7a678f992668369668622675a5b0d16"
+  },
+  {
+    "source": "tables/tab01_conventional_instruction_set_times.tex",
+    "destination": "tables/tab01_conventional_instruction_set_times.tex",
+    "source_sha256": "b9aaa8a0dda00f621f7a494ebe56336680be2eee586927d0864b15984fb22f9f",
+    "purpose": "current manuscript table LaTeX",
+    "packaged_sha256": "b9aaa8a0dda00f621f7a494ebe56336680be2eee586927d0864b15984fb22f9f"
+  },
+  {
+    "source": "tables/tab03_conventional_decomposition_counts.tex",
+    "destination": "tables/tab03_conventional_decomposition_counts.tex",
+    "source_sha256": "cb71e0af83d3afd4ff62bd8f91201bb6484fa590ed21be7d61626b087ce5a504",
+    "purpose": "current manuscript table LaTeX",
+    "packaged_sha256": "cb71e0af83d3afd4ff62bd8f91201bb6484fa590ed21be7d61626b087ce5a504"
+  },
+  {
+    "source": "assets/fig01_instruction_primitives_drawio_matched.pdf",
+    "destination": "assets/fig01_instruction_primitives_drawio_matched.pdf",
+    "source_sha256": "41f0ccf47e2d10ef7a85a8becbda50cfc026680d884fd2dbe88f0d7522b89f36",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "41f0ccf47e2d10ef7a85a8becbda50cfc026680d884fd2dbe88f0d7522b89f36"
+  },
+  {
+    "source": "assets/fig02_weyl_revised_v3.pdf",
+    "destination": "assets/fig02_weyl_revised_v3.pdf",
+    "source_sha256": "cd6c1f332c526aea895a6c45a056c01c20c0c49f0c7e0d827c99924ee355dbfe",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "cd6c1f332c526aea895a6c45a056c01c20c0c49f0c7e0d827c99924ee355dbfe"
+  },
+  {
+    "source": "assets/fig03_cx_gate_coverage_revised.pdf",
+    "destination": "assets/fig03_cx_gate_coverage_revised.pdf",
+    "source_sha256": "8703edd40706f08af8add34464929d3400f9b90716154b0cc2b2145e2ba14df5",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "8703edd40706f08af8add34464929d3400f9b90716154b0cc2b2145e2ba14df5"
+  },
+  {
+    "source": "assets/fig04_ac2_revised_v3.pdf",
+    "destination": "assets/fig04_ac2_revised_v3.pdf",
+    "source_sha256": "96a57f9737fe7014abf757a95882bbcb8921e5ce1e90e673828d04ec0a467109",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "96a57f9737fe7014abf757a95882bbcb8921e5ce1e90e673828d04ec0a467109"
+  },
+  {
+    "source": "assets/fig05_decomposition_template_revised.pdf",
+    "destination": "assets/fig05_decomposition_template_revised.pdf",
+    "source_sha256": "5693ae72f4baf8fd908d500f7568baa0258fd922ae5f2e489a25e4e65bddcff3",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "5693ae72f4baf8fd908d500f7568baa0258fd922ae5f2e489a25e4e65bddcff3"
+  },
+  {
+    "source": "assets/fig07_circuit_dag_compact_cxy.pdf",
+    "destination": "assets/fig07_circuit_dag_compact_cxy.pdf",
+    "source_sha256": "1176c3d6666a251b7666f5a6ef919dba485d7654c3e83c9d3cb4ae946b7e94b9",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "1176c3d6666a251b7666f5a6ef919dba485d7654c3e83c9d3cb4ae946b7e94b9"
+  },
+  {
+    "source": "assets/fig08_routing_progress_single_column.pdf",
+    "destination": "assets/fig08_routing_progress_single_column.pdf",
+    "source_sha256": "d39d25f3e328bbf247cb6ac38d80497c81dc8a86f7e5c0c76a4ae07db29d812a",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "d39d25f3e328bbf247cb6ac38d80497c81dc8a86f7e5c0c76a4ae07db29d812a"
+  },
+  {
+    "source": "assets/fig10_excess_amplitude_clear.pdf",
+    "destination": "assets/fig10_excess_amplitude_clear.pdf",
+    "source_sha256": "040ef73b0468331f96e3758b41f6c28a42ed2ada687fad959f0d6a0876309dc8",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "040ef73b0468331f96e3758b41f6c28a42ed2ada687fad959f0d6a0876309dc8"
+  },
+  {
+    "source": "assets/fig10_panel_a_v2.pdf",
+    "destination": "assets/fig10_panel_a_v2.pdf",
+    "source_sha256": "2a37bf82f4c7b7cdbb660275aecb07dd293dafc233a11384e6bf680af29596bf",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "2a37bf82f4c7b7cdbb660275aecb07dd293dafc233a11384e6bf680af29596bf"
+  },
+  {
+    "source": "assets/fig10_panel_b_v2.pdf",
+    "destination": "assets/fig10_panel_b_v2.pdf",
+    "source_sha256": "b166d22f4347fc0ced6be1a4e0c487f3283452a908f941814b38485e7ddf2cd4",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "b166d22f4347fc0ced6be1a4e0c487f3283452a908f941814b38485e7ddf2cd4"
+  },
+  {
+    "source": "assets/fig10_panel_c_v2.pdf",
+    "destination": "assets/fig10_panel_c_v2.pdf",
+    "source_sha256": "298598be1fa070a73f55b96c7c4e918f36d438d1ab9f616ed2337193a73a5818",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "298598be1fa070a73f55b96c7c4e918f36d438d1ab9f616ed2337193a73a5818"
+  },
+  {
+    "source": "assets/fig13_restricted_topology_dual_axis.pdf",
+    "destination": "assets/fig13_restricted_topology_dual_axis.pdf",
+    "source_sha256": "26df5a565acc8c83a5f39f7de8ea7e8191e70af6c3a3b0da65408478e48752be",
+    "purpose": "exact vector image used by the manuscript",
+    "packaged_sha256": "26df5a565acc8c83a5f39f7de8ea7e8191e70af6c3a3b0da65408478e48752be"
+  },
+  {
+    "source": "figures/fig01_instruction_primitives_revised.drawio",
+    "destination": "figures/fig01_instruction_primitives_revised.drawio",
+    "source_sha256": "952adcd32e50cde68922b2d472a37b61c2e862822762cc84d4655bc4a923cea1",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "93163c2eba73f38ca7779563221234242495be6ca9e5e90db5d66e0cd9302f7a"
+  },
+  {
+    "source": "figures/fig02_weyl_revised.drawio",
+    "destination": "figures/fig02_weyl_revised.drawio",
+    "source_sha256": "ab85a7a5977bbc79a5167236fedd1bf2b2d677743037a3e784fce0957c353291",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "ab85a7a5977bbc79a5167236fedd1bf2b2d677743037a3e784fce0957c353291"
+  },
+  {
+    "source": "figures/fig04_ac2_revised.drawio",
+    "destination": "figures/fig04_ac2_revised.drawio",
+    "source_sha256": "a4c14a8d8a808d21f33b396d7e0034fd36a6e2a01f7d27241d19b8db62953d7f",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "a4c14a8d8a808d21f33b396d7e0034fd36a6e2a01f7d27241d19b8db62953d7f"
+  },
+  {
+    "source": "figures/fig05_decomposition_template_revised.drawio",
+    "destination": "figures/fig05_decomposition_template_revised.drawio",
+    "source_sha256": "01e8f91be814b859f7cd922388967fc1b81c605eb5498862062e62be2ab90c60",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "01e8f91be814b859f7cd922388967fc1b81c605eb5498862062e62be2ab90c60"
+  },
+  {
+    "source": "figures/fig08_circuit_and_dag_revised.drawio",
+    "destination": "figures/fig08_circuit_and_dag_revised.drawio",
+    "source_sha256": "5afa3d82db07287f477f2417982fed7bbfbd3bb1fe7c13e9963487bef6969df1",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "5afa3d82db07287f477f2417982fed7bbfbd3bb1fe7c13e9963487bef6969df1"
+  },
+  {
+    "source": "figures/fig09_routing_progress_revised.drawio",
+    "destination": "figures/fig09_routing_progress_revised.drawio",
+    "source_sha256": "33508ea8de6b62f5eea7217a1dfbc5c8234fab592da25f3532286e1b7b476aca",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "33508ea8de6b62f5eea7217a1dfbc5c8234fab592da25f3532286e1b7b476aca"
+  },
+  {
+    "source": "figures/fig10_panel_a_v2.drawio",
+    "destination": "figures/fig10_panel_a_v2.drawio",
+    "source_sha256": "661f4510f79619df77ba12378caa25e12a024dc12dfe25a0041bf8de8c1126a8",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "661f4510f79619df77ba12378caa25e12a024dc12dfe25a0041bf8de8c1126a8"
+  },
+  {
+    "source": "figures/fig10_panel_b_v2.drawio",
+    "destination": "figures/fig10_panel_b_v2.drawio",
+    "source_sha256": "17eeb01616bc73866f329903957bf924e2dc0b1a53faadc971e840db54152139",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "17eeb01616bc73866f329903957bf924e2dc0b1a53faadc971e840db54152139"
+  },
+  {
+    "source": "figures/fig10_panel_c_v2.drawio",
+    "destination": "figures/fig10_panel_c_v2.drawio",
+    "source_sha256": "ba14ae37c18d70aeea844ee7f2e6e17e2179d7ef94c3b566162c429e9847315f",
+    "purpose": "editable source for a published figure",
+    "packaged_sha256": "ba14ae37c18d70aeea844ee7f2e6e17e2179d7ef94c3b566162c429e9847315f"
+  },
+  {
+    "source": "assets/fig08_circuit_and_dag_revised.pdf",
+    "destination": "inputs/fig07_geometry.pdf",
+    "source_sha256": "c7ac6c81c37e89a7c27d3d8ee992b6af73043c196a8ea6b82bafa30f9199907d",
+    "purpose": "vector geometry input required by Figure 7 layout script",
+    "packaged_sha256": "c7ac6c81c37e89a7c27d3d8ee992b6af73043c196a8ea6b82bafa30f9199907d"
+  },
+  {
+    "source": "support/fig08_before_bodyfont.pdf",
+    "destination": "inputs/fig08_geometry.pdf",
+    "source_sha256": "6dc65b449a7673d72ba764418b51aa360363d585fce3f7ff4354fd5403115311",
+    "purpose": "vector geometry input required by Figure 8 layout script",
+    "packaged_sha256": "6dc65b449a7673d72ba764418b51aa360363d585fce3f7ff4354fd5403115311"
+  },
+  {
+    "source": "support/generate_fig01_from_drawio.py",
+    "destination": "plotting/generate_fig01_from_drawio.py",
+    "source_sha256": "c003202e48a1d52149f5463fe715fb99fa5766e25605551d272dee2299a7a4d2",
+    "purpose": "renderer used for a current manuscript figure",
+    "packaged_sha256": "c003202e48a1d52149f5463fe715fb99fa5766e25605551d272dee2299a7a4d2"
+  },
+  {
+    "source": "support/plot_fig03_coverage.py",
+    "destination": "plotting/plot_fig03_coverage.py",
+    "source_sha256": "5eee5eb08358f795bc278b3b517a196ae60c3facd19935277c3368413b23a43a",
+    "purpose": "renderer used for a current manuscript figure",
+    "packaged_sha256": "382556c2f160a87f742638320cb2e89441c91007231d55db2e4e611bbbfe2637"
+  },
+  {
+    "source": "support/plot_fig05_decomposition.py",
+    "destination": "plotting/plot_fig05_decomposition.py",
+    "source_sha256": "cbb20d6e87db09fbbce01861423e650331a4e6c8e43d831eba5a0e988d978c00",
+    "purpose": "renderer used for a current manuscript figure",
+    "packaged_sha256": "b0b7e3666a523169a2acb1d7219bab704fbb4c78d135a00484e37114511bff9f"
+  },
+  {
+    "source": "support/reflow_fig07_cxy.py",
+    "destination": "plotting/reflow_fig07_cxy.py",
+    "source_sha256": "fff11cea89193fd92ef038f428ce91501657f337c81aa967ec4c2b07c3d6dff0",
+    "purpose": "renderer used for a current manuscript figure",
+    "packaged_sha256": "a9c30e122f9f176653db2340106d78eddb58609385e94fe1b68b8d0e9f80cd66"
+  },
+  {
+    "source": "support/fig08_bodyfont.py",
+    "destination": "plotting/fig08_bodyfont.py",
+    "source_sha256": "dccf445e3b677d438c75b526608a6a1f9d009d0560ac0b877b546ac80c6e0b63",
+    "purpose": "renderer used for a current manuscript figure",
+    "packaged_sha256": "6cdd71c078b3e46e33327116d9969a30567f8518478b34b7094c88ed11ab1c91"
+  },
+  {
+    "source": "support/plot_fig10_clear.py",
+    "destination": "plotting/plot_fig10_clear.py",
+    "source_sha256": "704afaad308ba15c06b07a418447224a149f47c36f8da702d358b737bbda1493",
+    "purpose": "renderer used for a current manuscript figure",
+    "packaged_sha256": "bb6198c2ccb4ff32261236354c5383a00af3dc5df05a04be20aa7a90b0792ae5"
+  },
+  {
+    "source": "support/plot_restricted_dual_axis.py",
+    "destination": "plotting/plot_restricted_dual_axis.py",
+    "source_sha256": "61bbeb3a57fb3e47ae85629ee12c6f38250402f5205adccac06c9977cce86a82",
+    "purpose": "renderer used for a current manuscript figure",
+    "packaged_sha256": "496fb679eba639f50723ed9a008c3a003cd9f9071e537e69f1a0735b7fead1f7"
+  },
+  {
+    "source": "support/figure_qa/audit_panel_alignment.py",
+    "destination": "plotting/figure_qa/audit_panel_alignment.py",
+    "source_sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76",
+    "purpose": "shared renderer dependency",
+    "packaged_sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76"
+  }
+]

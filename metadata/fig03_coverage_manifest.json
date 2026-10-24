@@ -1,0 +1,85 @@
+{
+  "source_kind": "schematic geometry defined in this script",
+  "dimensions_mm": [
+    86,
+    42
+  ],
+  "minimum_font_pt": 5.6,
+  "subcaption_font": "Times New Roman",
+  "subcaption_native_font_pt": 9.96,
+  "subcaption_printed_font_pt": 9.96,
+  "method": "Schematic vector redraw retaining the original three-panel sequence, axis labels, CX point, two-CX triangular region, three-CX chamber shading and projected internal edges. No empirical data inferred.",
+  "geometry": {
+    "O": [
+      52,
+      240
+    ],
+    "A": [
+      280,
+      38
+    ],
+    "B": [
+      280,
+      210
+    ],
+    "C": [
+      212,
+      312
+    ],
+    "D": [
+      170.56,
+      134.96
+    ],
+    "E": [
+      246,
+      175
+    ],
+    "F": [
+      128,
+      274.2
+    ]
+  },
+  "edges": [
+    [
+      "O",
+      "A"
+    ],
+    [
+      "A",
+      "B"
+    ],
+    [
+      "B",
+      "C"
+    ],
+    [
+      "C",
+      "O"
+    ],
+    [
+      "D",
+      "F"
+    ],
+    [
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "E"
+    ],
+    [
+      "E",
+      "C"
+    ],
+    [
+      "E",
+      "B"
+    ],
+    [
+      "F",
+      "B"
+    ]
+  ],
+  "outputs": "Vector PDF/SVG; 600 dpi PNG/TIFF."
+}

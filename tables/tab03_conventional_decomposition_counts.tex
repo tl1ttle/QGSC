@@ -1,0 +1,19 @@
+% 2026-10-23：与表III统一为60条线路；排除Ising-420，ReQISC采用reqisc_time_after。
+% 分解数量为每条线路的基门数/目标2Q数后取均值；全部60条均采用与表III对应的逐线路原始统计，不再使用四舍五入后的旧汇总值。
+\begin{table}[!htbp]\centering
+\begingroup\small
+\caption{Average decomposition gate counts and evolution time reductions relative to CX across 60 circuits.}\label{tab:2}
+% 翻译：60条线路的平均分解门数及相对CX的演化时间降低率。
+\vspace{2pt}
+\setlength{\tabcolsep}{3pt}\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{lcc}\toprule
+Instruction set & \shortstack{Mean gate\\count} & \shortstack{Time reduction\\vs CX (\%)} \\
+\midrule
+CX & 1.79 & $0.00$ \\
+B & 1.93 & $-6.64$ \\
+iSWAP & 2.08 & $-16.83$ \\
+SQiSW & 2.06 & $41.11$ \\
+SU(4) (ReQISC) & 1.00 & $35.27$ \\
+UGS (ours) & 2.29 & $48.83$ \\
+\bottomrule\end{tabular}
+\endgroup\end{table}

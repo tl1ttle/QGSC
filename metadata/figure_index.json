@@ -1,0 +1,50 @@
+[
+  {
+    "figure": 1,
+    "latex": "figures/fig01_instruction_primitives.tex"
+  },
+  {
+    "figure": 2,
+    "latex": "figures/fig02_weyl_chamber_gate_coordinates.tex"
+  },
+  {
+    "figure": 3,
+    "latex": "figures/fig03_cx_gate_coverage.tex"
+  },
+  {
+    "figure": 4,
+    "latex": "figures/fig04_ac2_chamber_gate_coordinates.tex"
+  },
+  {
+    "figure": 5,
+    "latex": "figures/fig05_decomposition_template.tex"
+  },
+  {
+    "figure": 6,
+    "latex": "figures/fig06_qgsc_framework.tex"
+  },
+  {
+    "figure": 7,
+    "latex": "figures/fig08_circuit_and_dag.tex"
+  },
+  {
+    "figure": 8,
+    "latex": "figures/fig09_routing_progress.tex"
+  },
+  {
+    "figure": 9,
+    "latex": "figures/fig10_qft_compiled_circuit.tex"
+  },
+  {
+    "figure": 10,
+    "latex": "figures/fig11_excess_amplitude_gate_proportion.tex"
+  },
+  {
+    "figure": 11,
+    "latex": "figures/fig13_fully_connected_fidelity.tex"
+  },
+  {
+    "figure": 12,
+    "latex": "figures/fig13_restricted_topology_dual_axis.tex"
+  }
+]
