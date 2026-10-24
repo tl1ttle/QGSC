@@ -1,0 +1,33 @@
+% 2026-10-22：原(b)坐标表改为独立table环境并使用正式表号，位置图不再分(a)(b)。
+% 中文备注：图2与表1保持两个独立浮动体，均优先在栏顶按顺序紧邻排列，不合并为同一单位。
+\begin{figure}[!t]\centering
+\makeatletter\def\@captype{figure}\makeatother
+\revisiongraphic[width=.82\linewidth,trim=0 0 293.12 0,clip]{assets/fig02_weyl_revised_v3.pdf}
+\caption{Selected 2Q gate locations in the Weyl chamber.}\label{fig:2}
+\end{figure}
+\begin{table}[!t]
+\begingroup
+\makeatletter\def\@captype{table}\makeatother
+\centering
+\caption{Weyl coordinates of selected 2Q gates.}\label{tab:weyl}
+\begingroup\small
+\setlength{\tabcolsep}{7pt}\renewcommand{\arraystretch}{1.05}
+\begin{tabular}{cc}
+\toprule
+Gate & $(x,y,z)$\\
+\midrule
+$I$ & $(0,0,0)$ \\
+$\mathrm{CX/CZ}$ & $(\pi/4,0,0)$ \\
+$\mathrm{CV}$ & $(\pi/8,0,0)$ \\
+$\mathrm{SWAP}$ & $(\pi/4,\pi/4,\pi/4)$ \\
+$\mathrm{iSWAP}$ & $(\pi/4,\pi/4,0)$ \\
+$B$ & $(\pi/4,\pi/8,0)$ \\
+$\sqrt{\mathrm{iSWAP}}$ & $(\pi/8,\pi/8,0)$ \\
+$\sqrt{\mathrm{SWAP}}$ & $(\pi/8,\pi/8,\pi/8)$ \\
+$\mathrm{CV}\!\cdot\!\mathrm{SWAP}$ & $(\pi/4,\pi/4,\pi/8)$ \\
+$\mathrm{UGS}(\theta)$ & $(\theta,\theta,0)$ \\
+\bottomrule
+\end{tabular}\par
+\endgroup
+\endgroup
+\end{table}

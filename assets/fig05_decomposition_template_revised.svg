@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="243.779528pt" height="76.535433pt" viewBox="0 0 243.779528 76.535433" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-24T17:39:50.913030</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 76.535433 
+L 243.779528 76.535433 
+L 243.779528 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 39.979843 52.044094 
+L 48.87292 52.044094 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 68.531301 52.044094 
+L 75.084094 52.044094 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 103.167496 52.044094 
+L 112.060573 52.044094 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 131.718954 52.044094 
+L 173.376 52.044094 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 201.459402 52.044094 
+L 208.012195 52.044094 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 227.670576 52.044094 
+L 236.563654 52.044094 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 39.979843 24.491339 
+L 48.87292 24.491339 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 68.531301 24.491339 
+L 75.084094 24.491339 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 103.167496 24.491339 
+L 112.060573 24.491339 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 131.718954 24.491339 
+L 173.376 24.491339 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 201.459402 24.491339 
+L 208.012195 24.491339 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 227.670576 24.491339 
+L 236.563654 24.491339 
+" clip-path="url(#pfd14f76214)" style="fill: none; stroke: #4a4a4a; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.87292 60.080315 
+L 68.531301 60.080315 
+L 68.531301 44.007874 
+L 48.87292 44.007874 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #e5eff7; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 48.87292 32.527559 
+L 68.531301 32.527559 
+L 68.531301 16.455118 
+L 48.87292 16.455118 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #e5eff7; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 112.060573 60.080315 
+L 131.718954 60.080315 
+L 131.718954 44.007874 
+L 112.060573 44.007874 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #e5eff7; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 112.060573 32.527559 
+L 131.718954 32.527559 
+L 131.718954 16.455118 
+L 112.060573 16.455118 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #e5eff7; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 208.012195 60.080315 
+L 227.670576 60.080315 
+L 227.670576 44.007874 
+L 208.012195 44.007874 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #e5eff7; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 208.012195 32.527559 
+L 227.670576 32.527559 
+L 227.670576 16.455118 
+L 208.012195 16.455118 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #e5eff7; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 75.084094 60.309921 
+L 103.167496 60.309921 
+L 103.167496 16.225512 
+L 75.084094 16.225512 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #fbeadb; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 173.376 60.309921 
+L 201.459402 60.309921 
+L 201.459402 16.225512 
+L 173.376 16.225512 
+z
+" clip-path="url(#pfd14f76214)" style="fill: #fbeadb; stroke: #4a4a4a; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <!-- $U=$ -->
+    <g transform="translate(10.799235 40.594357)">
+     <text>
+      <tspan style="font: italic 9px 'STIXGeneral'" x="0" y="-0.125">U</tspan>
+      <tspan style="font: 9px 'STIXGeneral'" x="7.797601" y="-0.125">=</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- $U_3$ -->
+    <g transform="translate(54.33411 54.060516)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0" y="-0.78125">U</tspan>
+      <tspan style="font: 5.46px 'STIXGeneral'" x="5.59549" y="0.2781250000000002">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- $U_3$ -->
+    <g transform="translate(54.33411 26.50776)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0" y="-0.78125">U</tspan>
+      <tspan style="font: 5.46px 'STIXGeneral'" x="5.59549" y="0.2781250000000002">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- $U_3$ -->
+    <g transform="translate(117.521764 54.060516)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0" y="-0.78125">U</tspan>
+      <tspan style="font: 5.46px 'STIXGeneral'" x="5.59549" y="0.2781250000000002">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $U_3$ -->
+    <g transform="translate(117.521764 26.50776)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0" y="-0.78125">U</tspan>
+      <tspan style="font: 5.46px 'STIXGeneral'" x="5.59549" y="0.2781250000000002">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- $U_3$ -->
+    <g transform="translate(213.473386 54.060516)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0" y="-0.78125">U</tspan>
+      <tspan style="font: 5.46px 'STIXGeneral'" x="5.59549" y="0.2781250000000002">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- $U_3$ -->
+    <g transform="translate(213.473386 26.50776)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0" y="-0.78125">U</tspan>
+      <tspan style="font: 5.46px 'STIXGeneral'" x="5.59549" y="0.2781250000000002">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- $G(\theta)$ -->
+    <g transform="translate(81.832795 40.284138)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0 8.176239" y="-0.578125">Gθ</tspan>
+      <tspan style="font: 7.8px 'STIXGeneral'" x="5.59549 11.89624" y="-0.578125">()</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- $G(\theta)$ -->
+    <g transform="translate(180.124701 40.284138)">
+     <text>
+      <tspan style="font: italic 7.8px 'STIXGeneral'" x="0 8.176239" y="-0.578125">Gθ</tspan>
+      <tspan style="font: 7.8px 'STIXGeneral'" x="5.59549 11.89624" y="-0.578125">()</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- $\cdots$ -->
+    <g transform="translate(147.663449 40.852873)">
+     <text>
+      <tspan style="font: 10px 'STIXGeneral'" x="0" y="-0.84375">⋯</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfd14f76214">
+   <rect x="4.875591" y="6.122835" width="234.028346" height="64.289764"/>
+  </clipPath>
+ </defs>
+</svg>

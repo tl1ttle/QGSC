@@ -1,0 +1,8 @@
+{
+  "circuit_count": 60,
+  "mean_reqisc": 174.7769205342103,
+  "mean_ugs": 138.14832575602048,
+  "ugs_vs_reqisc_percent": 20.95734074398011,
+  "mean_basis": "Ratio of actual per-circuit mean times over all 60 matched records; not arithmetic mean of percentage reductions.",
+  "point_basis": "One record per circuit; no family aggregation; exact coincident points may overlap."
+}

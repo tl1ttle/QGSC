@@ -1,0 +1,35 @@
+% 2026-10-22：自由优化布局，左侧输入与预处理、中间UGS反馈回路、右侧最终求解与输出。
+% 保留原功能配色与模块关系；删除硬件区、重复外框及不必要的参数标注。
+\definecolor{pgscBlueFill}{HTML}{66FFFF}
+\definecolor{pgscGreen}{HTML}{CCFFCC}
+\definecolor{pgscPurple}{HTML}{CC99FF}
+\definecolor{pgscYellow}{HTML}{FFDF00}
+\begin{tikzpicture}[x=1mm,y=1mm,font=\fontsize{9}{11}\selectfont,text=black,
+ card/.style={draw=black,line width=.6pt,align=center,text width=31mm,minimum width=34mm,minimum height=13mm,inner sep=1mm},
+ link/.style={-{Stealth[length=1.8mm,width=1.2mm]},draw=black,line width=.75pt,rounded corners=.7mm}]
+% Only the iterative optimization loop has a grouping boundary.
+\draw[dashed,line width=.6pt] (42,6) rectangle (119,56);
+\node[fill=white,inner sep=1.2mm,align=center,font=\fontsize{9}{11}\selectfont] at (80.5,56)
+ {\textbf{UGS gate set optimization}\\$\mathrm{UGS}(\theta)=\{G(\theta),U_3\}$};
+% Left: input preparation; middle: four-node feedback cycle; right: finalization.
+\node[card,fill=pgscBlueFill] (input) at (17,42) {\textbf{Input logical}\\\textbf{circuit}};
+\node[card,fill=pgscBlueFill] (pre) at (17,16) {\textbf{Circuit}\\\textbf{preprocessing}};
+\node[card,fill=pgscPurple] (dec) at (62,42) {\textbf{Gate decomposition}\\Monodromy constraints};
+\node[card,fill=pgscPurple] (route) at (100,42) {\textbf{Topology routing}\\Mapping and SWAPs};
+\node[card,fill=pgscGreen] (search) at (62,16) {\textbf{UGS parameter}\\\textbf{search}\\COBYLA};
+\node[card,fill=pgscYellow] (eval) at (100,16) {\textbf{Circuit evaluation}\\Evolution time\\Retain the best circuit};
+\node[card,fill=pgscGreen,text width=31mm,minimum width=34mm] (solve) at (146,42)
+ {\textbf{Final parameter}\\\textbf{solving}\\L-BFGS};
+\node[card,fill=pgscBlueFill,text width=31mm,minimum width=34mm] (output) at (146,16)
+ {\textbf{Executable circuit}\\$G(\theta^*)$ and $U_3$ gates};
+\draw[link] (input.south)--(pre.north);
+\draw[link] (pre.east)--(38,16)--(38,42)--(dec.west);
+\draw[link] (dec.east)--(route.west);
+\draw[link] (route.south)--(eval.north);
+\draw[link] (eval.west)--(search.east);
+\draw[link] (search.north)--(dec.south);
+% The best-result exit stays outside the optimization boundary.
+\draw[link] (eval.east)--(124,16)--(124,42)--(solve.west);
+\node[anchor=west,inner sep=0pt,font=\fontsize{8}{9}\selectfont] at (126,29) {After search};
+\draw[link] (solve.south)--(output.north);
+\end{tikzpicture}

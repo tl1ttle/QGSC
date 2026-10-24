@@ -1,0 +1,35 @@
+% 2026-10-22：原(b)坐标表改为独立table环境并使用正式表号，位置图不再分(a)(b)。
+% 中文备注：图4与表2分为独立单栏块，允许自然跨栏，保持图后接表的阅读顺序。
+\begin{figure}[!htbp]\centering
+\makeatletter\def\@captype{figure}\makeatother
+\setlength{\abovecaptionskip}{2pt}\setlength{\belowcaptionskip}{0pt}
+\revisiongraphic[width=.68\linewidth,trim=0 35 336.08 0,clip]{assets/fig04_ac2_revised_v3.pdf}
+\caption{Selected 2Q gate locations in the $A_{C_2}$ chamber.}\label{fig:4}
+\end{figure}
+\begin{figure}[!htbp]
+\begingroup
+\makeatletter\def\@captype{table}\makeatother
+\centering
+\caption{Spectral coordinates of selected 2Q gates in the $A_{C_2}$ chamber.}\label{tab:spectral}
+\begingroup\small
+\setlength{\tabcolsep}{7pt}\renewcommand{\arraystretch}{1.05}
+\begin{tabular}{cc}
+\toprule
+Gate & $\Pi(U)=(\delta_1,\delta_2,\delta_3,\delta_4)$\\
+\midrule
+$I$ & $(0,0,0,0)$ \\
+$\mathrm{CX/CZ}$ & $(1/4,1/4,-1/4,-1/4)$ \\
+$B$ & $(3/8,1/8,-1/8,-3/8)$ \\
+$\mathrm{SWAP}$ & $(1/4,1/4,1/4,-3/4)$ \\
+$\mathrm{iSWAP}$ & $(1/2,0,0,-1/2)$ \\
+$\sqrt{\mathrm{SWAP}}$ & $(3/8,3/8,-1/8,-5/8)$ \\
+$\sqrt{\mathrm{SWAP}}^{\dagger}$ & $(3/8,-1/8,-1/8,-1/8)$ \\
+$\sqrt{\mathrm{iSWAP}}$ & $(1/4,0,0,-1/4)$ \\
+$\mathrm{CV}$ & $(1/8,1/8,-1/8,-1/8)$ \\
+$\mathrm{CV}\!\cdot\!\mathrm{SWAP}$ & $(3/8,1/8,1/8,-5/8)$ \\
+$\mathrm{UGS}(\theta)$ & $(2\theta/\pi,0,0,-2\theta/\pi)$ \\
+\bottomrule
+\end{tabular}\par
+\endgroup
+\endgroup
+\end{figure}

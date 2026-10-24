@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="Electron">
+  <diagram name="Figure 5 decomposition template">
+    <mxGraphModel page="0" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wire8_0" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="90" y="120" />
+            <mxPoint as="targetPoint" x="112.80000000000001" y="120" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire8_1" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="163.2" y="120" />
+            <mxPoint as="targetPoint" x="180" y="120" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire8_2" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="252" y="120" />
+            <mxPoint as="targetPoint" x="274.79999999999995" y="120" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire8_3" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="325.20000000000005" y="120" />
+            <mxPoint as="targetPoint" x="432" y="120" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire8_4" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="504" y="120" />
+            <mxPoint as="targetPoint" x="520.8" y="120" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire8_5" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="571.2" y="120" />
+            <mxPoint as="targetPoint" x="594" y="120" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire20_0" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="90" y="48" />
+            <mxPoint as="targetPoint" x="112.80000000000001" y="48" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire20_1" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="163.2" y="48" />
+            <mxPoint as="targetPoint" x="180" y="48" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire20_2" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="252" y="48" />
+            <mxPoint as="targetPoint" x="274.79999999999995" y="48" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire20_3" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="325.20000000000005" y="48" />
+            <mxPoint as="targetPoint" x="432" y="48" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire20_4" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="504" y="48" />
+            <mxPoint as="targetPoint" x="520.8" y="48" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wire20_5" edge="1" parent="1" style="endArrow=none;strokeColor=#4A4A4A;strokeWidth=1.2;">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="sourcePoint" x="571.2" y="48" />
+            <mxPoint as="targetPoint" x="594" y="48" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gate0" parent="1" vertex="1" value="U&lt;sub&gt;3&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#E5EFF7;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="112.80000000000001" y="99.0" width="50.400000000000006" height="42" />
+        </mxCell>
+        <mxCell id="gate1" parent="1" vertex="1" value="U&lt;sub&gt;3&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#E5EFF7;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="112.80000000000001" y="27.0" width="50.400000000000006" height="42" />
+        </mxCell>
+        <mxCell id="gate2" parent="1" vertex="1" value="U&lt;sub&gt;3&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#E5EFF7;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="274.79999999999995" y="99.0" width="50.400000000000006" height="42" />
+        </mxCell>
+        <mxCell id="gate3" parent="1" vertex="1" value="U&lt;sub&gt;3&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#E5EFF7;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="274.79999999999995" y="27.0" width="50.400000000000006" height="42" />
+        </mxCell>
+        <mxCell id="gate4" parent="1" vertex="1" value="U&lt;sub&gt;3&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#E5EFF7;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="520.8" y="99.0" width="50.400000000000006" height="42" />
+        </mxCell>
+        <mxCell id="gate5" parent="1" vertex="1" value="U&lt;sub&gt;3&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#E5EFF7;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="520.8" y="27.0" width="50.400000000000006" height="42" />
+        </mxCell>
+        <mxCell id="gate6" parent="1" vertex="1" value="G(θ)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FBEADB;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="180.0" y="26.400000000000002" width="72" height="115.19999999999999" />
+        </mxCell>
+        <mxCell id="gate7" parent="1" vertex="1" value="G(θ)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FBEADB;strokeColor=#4A4A4A;fontColor=#000000;fontFamily=Times New Roman;fontSize=18;">
+          <mxGeometry as="geometry" x="432.0" y="26.400000000000002" width="72" height="115.19999999999999" />
+        </mxCell>
+        <mxCell id="label0" parent="1" vertex="1" value="U =" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=22;strokeColor=none;fillColor=none;">
+          <mxGeometry as="geometry" x="0" y="54" width="72" height="60" />
+        </mxCell>
+        <mxCell id="label57" parent="1" vertex="1" value="⋯" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=22;strokeColor=none;fillColor=none;">
+          <mxGeometry as="geometry" x="342" y="54" width="72" height="60" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
